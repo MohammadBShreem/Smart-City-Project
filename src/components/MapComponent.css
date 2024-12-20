@@ -1,0 +1,14 @@
+.marker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px; /* Adjust size as needed */
+    height: 40px; /* Adjust size as needed */
+  }
+  
+  .marker-garbage {
+    width: 100%; /* Adjust size as needed */
+    height: 100%; /* Adjust size as needed */
+    object-fit: contain;
+  }
+  
